@@ -1,3 +1,9 @@
+# To Do List
+
+The To Do List is a React based web application that allows you to generate list items, cross them through once completed and delete crossed out items. The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js and ES6.
+
+[Live Demo](https://h-khan-14.github.io/React_Todo_App/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
